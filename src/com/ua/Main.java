@@ -8,6 +8,7 @@ public class Main {
         System.out.println();
 	C b=new B();
 	b.templateMethod();
+        System.out.println();
     }
 }
 
